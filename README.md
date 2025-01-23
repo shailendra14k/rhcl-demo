@@ -1,5 +1,5 @@
 # Deployment files for the RHCL demo 
-Blog:- 
+Blog:- https://learn.microsoft.com/en-us/entra/identity-platform/app-objects-and-service-principals?tabs=browser#service-principal-object
 
 #backend-api app
 Its a simple camel route, Backed app send the message with cluster name and pod details.
